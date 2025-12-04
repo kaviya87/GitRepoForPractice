@@ -11,6 +11,7 @@ public class DummyClassTest {
       @Test
       public void demo1() {
 	  Reporter.log("hi github",true);
+	  Reporter.log("hi hi github",true);
 
 	}
 	
